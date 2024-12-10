@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\absenteismo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|solutionrelative:absenteismo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|c:\\users\\yuri_prado\\source\\repos\\absenteismo\\absenteismo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|solutionrelative:absenteismo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|c:\\users\\yuri_prado\\source\\repos\\absenteismo\\absenteismo\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|solutionrelative:absenteismo\\inserirdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|c:\\users\\yuri_prado\\source\\repos\\absenteismo\\absenteismo\\buscardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68A06D3-0875-4324-A268-266FCFDAE9D4}|Absenteismo\\Absenteismo.csproj|solutionrelative:absenteismo\\buscardados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InserirDados.cs",
+              "DocumentMoniker": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\InserirDados.cs",
+              "RelativeDocumentMoniker": "Absenteismo\\InserirDados.cs",
+              "ToolTip": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\InserirDados.cs",
+              "RelativeToolTip": "Absenteismo\\InserirDados.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:37:30.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuscarDados.cs",
+              "DocumentMoniker": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\BuscarDados.cs",
+              "RelativeDocumentMoniker": "Absenteismo\\BuscarDados.cs",
+              "ToolTip": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\BuscarDados.cs",
+              "RelativeToolTip": "Absenteismo\\BuscarDados.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:52:58.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\Form1.cs",
+              "RelativeDocumentMoniker": "Absenteismo\\Form1.cs",
+              "ToolTip": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\Form1.cs",
+              "RelativeToolTip": "Absenteismo\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:05:14.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\Form1.cs",
+              "RelativeDocumentMoniker": "Absenteismo\\Form1.cs",
+              "ToolTip": "C:\\Users\\yuri_prado\\source\\repos\\Absenteismo\\Absenteismo\\Form1.cs [Design]",
+              "RelativeToolTip": "Absenteismo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:56:18.848Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

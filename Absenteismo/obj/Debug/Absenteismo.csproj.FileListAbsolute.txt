@@ -1,0 +1,10 @@
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\bin\Debug\Absenteismo.exe.config
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\bin\Debug\Absenteismo.exe
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\bin\Debug\Absenteismo.pdb
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.csproj.AssemblyReference.cache
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.Form1.resources
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.Properties.Resources.resources
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.csproj.GenerateResource.cache
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.csproj.CoreCompileInputs.cache
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.exe
+C:\Users\yuri_prado\source\repos\Absenteismo\Absenteismo\obj\Debug\Absenteismo.pdb
